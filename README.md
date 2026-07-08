@@ -9,7 +9,7 @@ Dưới đây là hướng dẫn kỹ thuật chi tiết, dựa trên quy trình
 - iOS: iOS 12.0 trở lên, thiết bị iPhone 6s+ hoặc iPad tương đương.
 - Web fallback: Trình duyệt Chrome/Firefox/Safari phiên bản mới nhất (không cần cài đặt nếu dùng trình duyệt).
 ## **Hướng dẫn tải và cài đặt chi tiết Đối với Android (APK phiên bản mới)**
-- Truy cập nguồn tải chính thức qua trình duyệt an toàn (truy cập phần[` `**Tải VND88**](https://vnd88online.com/tai-vnd88) trên website chính thức).
+- Truy cập nguồn tải chính thức qua trình duyệt an toàn (truy cập phần[` `**Tải VND88**](https://vnd88guide.com/tai-vnd88-app-guide/) trên website chính thức).
 - Tải file APK phiên bản mới (kích thước ~75MB).
 - Trước khi cài đặt: Vào Cài đặt > Bảo mật > Cho phép cài đặt từ nguồn không xác định (Unknown Sources) – chỉ bật cho trình duyệt bạn đang dùng.
 - Mở file APK đã tải → Chọn "Cài đặt" → Cấp quyền cần thiết (truy cập mạng, lưu trữ, thông báo).
